@@ -1,0 +1,30 @@
+/* Custom Styles */
+#hero {
+    background-image: url('1.jpg');
+    background-size: cover;
+    background-position: center;
+    color: rgb(94, 162, 217);
+}
+#departments .card {
+    margin-bottom: 300px;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a {
+    color:rgb(94, 162, 217);
+    text-decoration: none;
+}
